@@ -1,2 +1,2 @@
-# rosetta-collections
-Natural language processing framework aimed to understand and generate NLs with an intermediate representation.
+# Rosetta collections
+This project is inspired by LLVM and aims to be the ultimate NLP framework. Unlike other libraries, it deals with an _intermediate representation_ that describes natural language from all sorts of aspects: its vocabulary, similarity, grammar rules, word formation, etc that can be used to process language sophisticatedly. Unlike the majority of NLP frameworks, it is intended to compile the input text into the IR that can be used to understand NL extensively, and then the changes can be mirrored back into text covering natural language understanding. 
