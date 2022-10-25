@@ -1,0 +1,243 @@
+Mozilla (stylized as moz://a) is a free software community founded in 1998 by members of Netscape.
+The Mozilla community uses, develops, spreads and supports Mozilla products, thereby promoting
+exclusively free software and open standards, with only minor exceptions. The community is
+supported institutionally by the non-profit Mozilla Foundation and its tax-paying subsidiary, the
+Mozilla Corporation.
+
+Mozilla's current products include the Firefox web browser, Thunderbird e-mail client (now
+through a subsidiary), Bugzilla bug tracking system, Gecko layout engine, Pocket
+"read-it-later-online" service, and others.
+
+The Mozilla Manifesto outlines Mozilla's goals and principles. It asserts Mozilla's commitment to
+the internet, saying: "The open, global internet is the most powerful communication and
+collaboration resource we have ever seen. It embodies some of our deepest hopes for human
+progress." It then outlines what Mozilla sees as its place in the development of the internet,
+stating "The Mozilla project uses a community-based approach to create world-class open source
+software and to develop new types of collaborative activities". And finally, it lays out their
+ten principles:
+
+    The internet is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment, and society as a whole.
+    The internet is a global public resource that must remain open and accessible.
+    The internet must enrich the lives of individual human beings.
+    Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.
+    Individuals must have the ability to shape the internet and their own experiences on it.
+    The effectiveness of the internet as a public resource depends upon interoperability (protocols, data formats, content), innovation, and decentralized participation worldwide.
+    Free and open source software promotes the development of the internet as a public resource.
+    Transparent community-based processes promote participation, accountability, and trust.
+    Commercial involvement in the development of the internet brings many benefits; a balance between commercial profit and public benefit is critical.
+    Magnifying the public benefit aspects of the internet is an important goal, worthy of time, attention, and commitment.
+    According to the Mozilla Foundation:[27]
+
+    The Mozilla Foundation pledges to support the Mozilla Manifesto in its activities. Specifically, we will:
+
+        Build and enable open-source technologies and communities that support the Manifesto’s principles;
+        Build and deliver great consumer products that support the Manifesto’s principles;
+        Use the Mozilla assets (intellectual property such as copyrights and trademarks, infrastructure, funds, and reputation) to keep the Internet an open platform;
+        Promote models for creating economic value for the public benefit; and
+        Promote the Mozilla Manifesto principles in public discourse and within the Internet industry.
+
+Firefox is a family of software products developed by Mozilla, with the Firefox browser as the
+flagship product.
+
+Firefox browser, or simply Firefox, is a web browser and Mozilla's flagship software product. It
+is available in both desktop and mobile versions. Firefox uses the Gecko layout engine to render
+web pages, which implements current and anticipated web standards. As of late 2015, Firefox
+had approximately 10-11% of worldwide usage share of web browsers, making it the 4th most-used
+web browser.
+
+Firefox began as an experimental branch of the Mozilla codebase by Dave Hyatt, Joe Hewitt and
+Blake Ross. They believed the commercial requirements of Netscape's sponsorship and
+developer-driven feature creep compromised the utility of the Mozilla browser.
+To combat what they saw as the Mozilla Suite's software bloat, they created a stand-alone 
+browser, with which they intended to replace the Mozilla Suite.
+
+Firefox was originally named Phoenix but the name was changed so as to avoid trademark conflicts
+with Phoenix Technologies. The initially-announced replacement, Firebird, provoked objections from
+the Firebird project community. The current name, Firefox, was chosen on February 9, 2004.
+
+It was previously announced that Mozilla is going to launch a premium version of the Firefox
+browser by October 2019. The company's CEO, Chris Beard, has been quoted by The Next Web to say
+that "there is no plan to charge money for things that are now free. So we will roll out a
+subscription service and offer a premium level." In September, Mozilla revealed their new
+offering, Firefox Premium Support, priced at $10 per installation. However, shortly after
+news broke of the service, Mozilla removed information about the service from the website.
+Computerworld reported that in an email statement, Mozilla claimed "the page outlining that these
+paid support services for enterprise clients will be available was posted incorrectly."
+
+
+Firefox for mobile (codenamed Fennec) is the build of the Mozilla Firefox web browser for mobile
+devices such as smartphones and tablet computers. Initially available on multiple platforms, it is
+now available in two versions: Firefox for Android and Firefox for iOS. Firefox for Android runs
+on the Android mobile operating system and uses the same Gecko layout engine as Mozilla Firefox;
+for example, version 1.0 used the same engine as Firefox 3.6, and the following release, 4.0,
+shared core code with Firefox 4.0. Firefox for iOS, which runs on the iOS mobile operating system,
+does not use the Gecko Layout Engine because of Apple's policy that all iOS apps that browse the
+web must use the built-in iOS WebKit rendering engine. Both version include features like
+HTML5 support, Firefox Sync, private browsing, web tracking protection, and tabbed browsing, and
+Firefox for Android also includes support for add-ons.
+
+
+Firefox Focus is a free and open-source privacy-focused mobile browser for Android and iOS.
+Initially released in 2015 as only a tracker-blocking application for iOS, it has since been
+developed into a full mobile browser for both iOS and Android.
+
+
+Firefox Lockwise was a password manager offered by Mozilla. On desktop, it was a built-in featur
+of the Firefox browser. On mobile, it was offered as a standalone app that can be set as the
+device's default password manager.
+
+
+Firefox Monitor is an online service that informs users if their email address and passwords have
+been leaked in data breaches.
+
+
+Firefox Send was an online encrypted file-transfer service offered by Mozilla. In September 2020,
+Mozilla announced that Firefox Send will be decommissioned and will no longer be part of the
+product lineup.
+
+
+Mozilla VPN, formerly Firefox Private Network, is a subscription-based VPN and a free privacy
+extension.
+
+Firefox Private Relay provides users with disposable email addresses that can be used to combat
+spam (by hiding the user's real email address) and manage email subscriptions by categorizing them
+based on the party a particular address was given to.
+
+In September 2018, Mozilla announced that its VR version was ready for consumers to download.
+Called Firefox Reality, the browser was built entirely for virtual reality. It is currently
+available on the Oculus.
+
+In January 2019, HTC also announced its partnership with Mozilla. Under the partnership, the
+Firefox Reality web browser has been made available on the Vive headsets.
+
+
+Firefox OS (project name: Boot to Gecko also known as B2G) is a free software operating system
+that was developed by Mozilla to support HTML5 apps written using "open Web" technologies rather
+than platform-specific native APIs. The concept behind Firefox OS is that all user-accessible
+software will be HTML5 applications, that use Open Web APIs to access the phone's hardware directly
+via JavaScript.
+
+Some devices using this OS include Alcatel One Touch Fire, ZTE Open, and LG Fireweb. Mozilla
+announced the end of Firefox OS development in December 2015.
+
+A fork of B2G, KaiOS, has continued development and ships with numerous low-cost devices.
+
+
+Pocket is a mobile application and web service for managing a reading list of articles from the
+Internet. It was announced that it would be acquired by the Mozilla Corporation, the commercial
+arm of Mozilla's non-profit development group, on February 27, 2017. Originally designed only
+for desktop browsers, it is now available for macOS, Windows, iOS, Android, Windows Phone,
+BlackBerry, Kobo eReaders, and web browsers.
+
+
+Thunderbird is a free software, cross-platform email and news client developed by the volunteers
+of the Mozilla Community.
+
+On July 16, 2012, Mitchell Baker announced that Mozilla's leadership had come to the conclusion
+that ongoing stability was the most important thing for Thunderbird and that innovation in
+Thunderbird was no longer a priority for Mozilla. In that update, Baker also suggested that
+Mozilla had provided a pathway for its community to innovate around Thunderbird if the community
+chooses.
+
+
+SeaMonkey (formerly the Mozilla Application Suite) is a free and open-source cross-platform suite
+of Internet software components including a web browser component, a client for sending and
+receiving email and Usenet newsgroup messages, an HTML editor (Mozilla Composer) and the ChatZilla
+IRC client.
+
+On March 10, 2005, the Mozilla Foundation announced that it would not release any official
+versions of Mozilla Application Suite beyond 1.7.x, since it had now focused on the stand-alone
+applications Firefox and Thunderbird.[61] SeaMonkey is now maintained by the SeaMonkey Council,
+which has trademarked the SeaMonkey name with help from the Mozilla Foundation.[62] The Mozilla
+Foundation provides project hosting for the SeaMonkey developers.
+
+
+Bugzilla is a web-based general-purpose bug tracking system, which was released as free software
+by Netscape Communications in 1998 along with the rest of the Mozilla codebase, and is currently
+stewarded by Mozilla. It has been adopted by a variety of organizations for use as a bug tracking
+system for both free and open-source software and proprietary projects and products, including the
+Mozilla Foundation, the Linux kernel, KDE, Red Hat, Eclipse and LibreOffice.
+WebThings
+
+WebThings is a framework that allowed management of IoT devices through a single framework,
+gateway and UI.[64][65][66] It was based on W3C Web of Things standard. As of 2020, it is no
+longer affiliated with Mozilla.[67] It was spinner of as independent project during 2020 layoff
+of 250 employees. It was known as Project Things and allowed users to use a raspberry pi as a
+gateway for IoT management with decentralized software.
+
+
+Network Security Services (NSS) comprises a set of libraries designed to support cross-platform
+development of security-enabled client and server applications. NSS provides a complete free
+software implementation of crypto libraries supporting SSL and S/MIME. NSS is licensed under the
+GPL-compatible Mozilla Public License 2.0.
+
+AOL, Red Hat, Sun Microsystems/Oracle Corporation, Google and other companies and individual
+contributors have co-developed NSS and it is used in a wide range of non-Mozilla products
+including Evolution, Pidgin, and LibreOffice.
+
+
+SpiderMonkey is the original JavaScript engine developed by Brendan Eich when he invented
+JavaScript in 1995 as a developer at Netscape. It became part of the Mozilla product family when
+Mozilla inherited Netscape's code-base in 1998. In 2011, Eich transferred the nominal ownership of
+the SpiderMonkey code and project to Dave Mandelin.
+
+SpiderMonkey is a cross-platform engine written in C++ which implements ECMAScript, a standard
+developed from JavaScript. It comprises an interpreter, several just-in-time compilers, a
+decompiler and a garbage collector. Products which embed SpiderMonkey include Firefox,
+Thunderbird, SeaMonkey, and many non-Mozilla applications.
+Rhino
+
+Rhino is a free software JavaScript engine managed by the Mozilla Foundation. It is developed
+entirely in Java. Rhino converts JavaScript scripts into Java classes. Rhino works in both
+compiled and interpreted mode.
+
+Gecko is a layout engine that supports web pages written using HTML, SVG, and MathML. Gecko is
+written in C++ and uses NSPR for platform independence. Its source code is licensed under the
+Mozilla Public License.
+
+Firefox uses Gecko both for rendering web pages and for rendering its user interface. Gecko is
+also used by Thunderbird, SeaMonkey, and many non-Mozilla applications.
+
+
+Rust is a compiled programming language being developed by Mozilla Research. It is designed for
+safety, concurrency, and performance. Rust is intended for creating large and complex software
+which needs to be both safe against exploits and fast.
+
+Rust is being used in an experimental layout engine, Servo, which was developed by Mozilla and
+Samsung. Servo is not used in any consumer-oriented browsers yet. However, the Servo project
+developers plan for parts of the Servo source code to be merged into Gecko, and Firefox,
+incrementally.
+
+
+XULRunner is a software platform and technology experiment by Mozilla, that allows applications
+built with the same technologies used by Firefox extensions (XPCOM, Javascript, HTML, CSS, XUL)
+to be run natively as desktop applications, without requiring Firefox to be installed on the
+user's machine. XULRunner binaries are available for the Windows, Linux and OS X operating
+systems, allowing such applications to be effectively cross-platform.
+
+
+Pdf.js is a library developed by Mozilla that allows in-browser rendering of pdf documents using
+HTML5 Canvas and JavaScript. It is included by default in Firefox, allowing the browser to render
+pdf documents without requiring an external plugin; and it is available separately as an extension
+named "PDF Viewer" for Firefox for Android, SeaMonkey, and the Firefox versions which don't
+include it built-in. It can also be included as part of a website's scripts, to allow pdf
+rendering for any browser that implements the required HTML5 features and can run JavaScript.
+
+Shumway is a free software replacement for the Adobe Flash Player, developed by Mozilla since
+2012, using open web technologies as a replacement for Flash technologies. It uses Javascript and
+HTML5 Canvas elements to render Flash and execute Actionscript. It is included by default in
+Firefox Nightly and can be installed as an extension for any recent version of Firefox. The
+current implementation is limited in its capabilities to render Flash content outside simple
+projects.
+
+
+Servo is a browser engine being developed for application and embedded use. In August 2020, during
+the COVID-19 pandemic, due to lack of funds and organization restructuring, Mozilla laid off most
+of the Servo development team. After the team was disbanded, Servo became part of the Linux
+Foundation, where development currently continues.
+
+sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and
+encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+
+WebXR Viewer is an AR viewer that lets a developer create and run AR experiences built with web
+technologies and ARKit.
