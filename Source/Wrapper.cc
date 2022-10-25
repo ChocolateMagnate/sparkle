@@ -30,19 +30,18 @@ namespace sparkle {
     }
     /// @brief Divides the input text into a series of text tokens.
     /// @param source The input text as array of characters.
-    //// It can range from a single word to whole books.
+    /// It can range from a single word to whole books.
     /// @return A vector of text tokens as const char*.
     std::vector<const char*> tokeniseByPunctuation(const char* source){
-        //TODO: Expand the function to words longer than 195 characters, such as chemistry terms.
         std::vector<const char*> tokens;
         unsigned int start{}, end{}, index{};
         char character = *source;
-        char buffer[195]; 
+        auto buffer = std::string(195, ' ');
         while (character != '\0'){
             switch (character){
                 case ' ': case '\t': case '\n': case '\r': case '\f': case '\v': case ',':
                 case '.': case ';': case ':': case '!': case '?': case '\"': case '\'':
-                    tokens.append(buffer);
+                    tokens.append(buffer.c_str());
                     start = end + 1;
                     index = 0;
                     break;
